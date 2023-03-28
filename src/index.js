@@ -94,3 +94,4 @@ countryInput.addEventListener('input', debounce(inputOn, DEBOUNCE_DELAY));
 //       .join("");
 //     userList.innerHTML = markup;
 //   }
+//init
